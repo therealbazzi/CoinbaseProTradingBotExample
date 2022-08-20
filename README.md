@@ -12,4 +12,4 @@ The following notebook JN.ipynb is the notebook demonstrated in the following yo
 
 
 
-<img width="1415" alt="Screen Shot 2022-08-21 at 12 50 45 AM" src="https://user-images.githubusercontent.com/58386327/185768625-1f6a0955-34b4-4953-9396-1f4a85b8fbcb.png">((https://youtu.be/E-xlK6UgV54))
+[<img width="1415" alt="Screen Shot 2022-08-21 at 12 50 45 AM" src="https://user-images.githubusercontent.com/58386327/185768625-1f6a0955-34b4-4953-9396-1f4a85b8fbcb.png">](https://youtu.be/E-xlK6UgV54)

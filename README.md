@@ -10,3 +10,6 @@ The following notebook JN.ipynb is the notebook demonstrated in the following yo
 3) Login to https://pro.coinbase.com/ to get your public key, secret key and passphrases for API endpoint configurations
 4) In mykeys.txt, replace the fields w/ public key, secret key and passphrases.
 
+
+
+<img width="1415" alt="Screen Shot 2022-08-21 at 12 50 45 AM" src="https://user-images.githubusercontent.com/58386327/185768625-1f6a0955-34b4-4953-9396-1f4a85b8fbcb.png">
